@@ -1,0 +1,3 @@
+body.home::before, body.home::after {
+	display: none !important;
+}
