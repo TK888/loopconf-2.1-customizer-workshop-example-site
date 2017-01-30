@@ -26,13 +26,15 @@ You must have an existing local development environment for use.
 #### Setup on an existing WordPress installation
 1. Install WordPress `4.7.2` locally.
 
-1. Download the `master` branch of this repository - either using Git or downloading the [`.zip` file](https://github.com/ataylorme/loopconf-2.1-customizer-workshop-example-site/archive/master.zip).
-
 1. Ensure you have the `twentysixteen` theme installed.
+
+1. Download the `master` branch of this repository - either using Git or downloading the [`.zip` file](https://github.com/ataylorme/loopconf-2.1-customizer-workshop-example-site/archive/master.zip).
 
 1. Move the `twentysixteen-child` theme to `wp-content/themes` of your local installation.
 
 1. Activate the the `twentysixteen-child` theme.
+
+1. Move the contents of the `wp-content/uploads` directory from the example site to your installation.
 
 1. Download the `master` branch of the [customizer hero plugin](https://github.com/ataylorme/customize-hero) - either using Git or downloading the [`.zip` file](https://github.com/ataylorme/customize-hero/archive/master.zip).
 
