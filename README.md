@@ -7,7 +7,7 @@ This site is an example site for the LoopConf 2.1 customizer workshop (February,
 You must have an existing local development environment for use.
 
 #### Cloning the entire repo
-1. Download the `master` branch of this repository - either using Git or downloading the [`.zip` file](https://github.com/ataylorme/loopconf-2.1-customizer-workshop-example-site/archive/master.zip).
+1. Download the `master` branch of this repository - either using Git or downloading the [`.zip` file](https://github.com/ataylorme/loopconf-2.1-customizer-workshop-example-site/archive/master.zip). If using Git be sure to clone with the `--recursive` argument in order to download submodules.
 
 1. Download the `master` branch of the [customizer hero plugin](https://github.com/ataylorme/customize-hero) - either using Git or downloading the [`.zip` file](https://github.com/ataylorme/customize-hero/archive/master.zip).
 
