@@ -1,0 +1,6 @@
+[submodule "wp-content/plugins/customize-hero"]
+	path = wp-content/plugins/customize-hero
+	url = git@github.com:ataylorme/customize-hero.git
+[submodule "wp-content/plugins/wp-customize-featured-content-demo"]
+	path = wp-content/plugins/wp-customize-featured-content-demo
+	url = git@github.com:xwp/wp-customize-featured-content-demo.git
